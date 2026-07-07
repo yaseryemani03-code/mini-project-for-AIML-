@@ -1,0 +1,7 @@
+dream-interpreter/
+│
+├── app.py              # Main Streamlit app (updated)
+├── dream_utils.py      # Core AI logic (updated)
+├── dream_symbols.json  # Symbol dictionary
+├── requirements.txt
+└── README.md
